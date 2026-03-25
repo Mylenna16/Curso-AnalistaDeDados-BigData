@@ -42,5 +42,5 @@ O projeto final consistiu na elaboração de um relatório analítico sobre **Ho
 - Modelagem avançada em **DAX**, com aplicação da metodologia estatística de **Tukey (Amplitude Interquartil - IQR)** para identificação dinâmica de outliers por **Área Integrada de Segurança Pública (AISP)**.
 - Diferenciação de variações sazonais e desvios críticos, oferecendo uma visão clara e baseada em evidências das regiões que operam fora da normalidade estatística.
 
-- [Relatório Data Analytics Aplicado à Segurança](https://app.powerbi.com/groups/me/reports/43c566c7-5747-429c-91ff-c6b25388c747?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare)
+- [Repositório Data Analytics Aplicado à Segurança](https://github.com/Mylenna16/Curso-AnalistaDeDados-BigData/blob/main/Trabalho%20final%20-%20Relat%C3%B3rio%20Data%20Analytics%20Aplicado%20%C3%A0%20Seguran%C3%A7a/Relat%C3%B3rio%20Data%20Analytics%20Aplicado%20%C3%A0%20Seguran%C3%A7a.pbix)
 - [Relatório Data Analytics Aplicado à Segurança](https://app.powerbi.com/groups/me/reports/43c566c7-5747-429c-91ff-c6b25388c747?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare)
